@@ -17,6 +17,9 @@ A html page allow the user press a button that, via local **node** server runnin
 - Open the index.html file;
 - On the bottom of VSCode, there will be a bottom called "Go Live";
 
+**PS**
+For while: change the IP on lines 92 and 108 on the `index.html` file by your Lan IP.
+
 --
 
 ## Demo - Using on the cell phone

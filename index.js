@@ -6,7 +6,7 @@ const app = express();
 app.use(cors())
 
 app.get('/on', function (req, res) {
-    exec("amixer set Capture cap", (error, stdout, stderr) => {
+    exec("amixer -D pulse set Capture 1+ cap", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
             return;
@@ -21,7 +21,7 @@ app.get('/on', function (req, res) {
 })
 
 app.get('/off', function (req, res) {
-    exec("amixer set Capture nocap", (error, stdout, stderr) => {
+    exec("amixer -D pulse set Capture 1+ nocap", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
             return;

@@ -19,7 +19,7 @@ A html page allow the user press a button that, via local **node** server runnin
 
 --
 
-## Demo - Using on the Cellphone
+## Demo - Using on the cellphone
 
 Press and hold to active the voice.
 

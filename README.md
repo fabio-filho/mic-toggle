@@ -19,19 +19,19 @@ A html page allow the user press a button that, via local **node** server runnin
 
 --
 
-## Demo - Using on the cellphone
+## Demo - Using on the cell phone
 
 Press and hold to active the voice.
 
 ### Pressed - Mic active
-#### Cellphone
+#### Cell phone
 ![photo_2022-06-21_15-51-02](https://user-images.githubusercontent.com/4037226/174876001-cc283fc1-0330-4902-83a9-c4093ac5caa0.jpg)
 #### Desktop
 ![Screenshot from 2022-06-21 15-59-17](https://user-images.githubusercontent.com/4037226/174877410-79705cf0-ceed-48e8-b070-6d4fe3d29377.png)
 
 
 #### Released - Mic deactive
-#### Cellphone
+#### Cell phone
 ![photo_2022-06-21_15-51-00](https://user-images.githubusercontent.com/4037226/174876012-7191a086-37c0-4b39-99ff-a09ff2aab750.jpg)
 #### Desktop
 ![image](https://user-images.githubusercontent.com/4037226/174877370-8bbf8908-fd0e-4cd2-98bf-0099f025df8a.png)
